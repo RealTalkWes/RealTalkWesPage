@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title>My Website</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1> RealTalk </h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    <main>
+      <h2>Welcome To My First Website!</h2>
+      <p>This is where I will share my thoughts and ideas with the world. I encourage everyone to do the same. We live in a world with limited comedy and everyone must have the same opinions... Well I say what I wanna say mfs! Anyone who tryna be friends hit me up AY AY SUBSCRIBE TO ME </p>
+    </main>
+    <footer>
+      <p>&copy; 2023 My Website</p>
+    </footer>
+  </body>
+</html>
